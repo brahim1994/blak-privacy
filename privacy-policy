@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Black And Pink 4K Wallpapers</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      line-height: 1.6;
+      color: #333;
+      padding: 20px;
+    }
+    h1 {
+      color: #e91e63;
+      text-align: center;
+    }
+    h2 {
+      color: #333;
+      border-bottom: 2px solid #e91e63;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last Updated:</strong> November 2025</p>
+
+  <p>Welcome to <strong>Black And Pink 4K Wallpapers</strong>. This Privacy Policy explains how we collect, use, and protect your information.</p>
+
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li><strong>App Information:</strong> We collect basic application data (package name, version number, and developer info) to ensure the app works properly and remains compatible with all devices.</li>
+    <li><strong>Wi-Fi Status:</strong> The app may check your Wi-Fi connection status to optimize the download of wallpapers and improve performance.</li>
+    <li><strong>Network Type:</strong> We may collect your current network type (Wi-Fi, 4G, 5G, etc.) to adjust image quality and app behavior.</li>
+  </ul>
+
+  <h2>2. Advertising and Marketing</h2>
+  <p>This app may display third-party ads (such as Google AdMob). These partners may use cookies or similar technologies to show personalized ads. No personal data like your name, phone number, or address is collected by this app.</p>
+
+  <h2>3. Data Sharing</h2>
+  <p>We do not sell or share your personal data. Limited technical information may be processed by third-party advertising services for analytics and ad delivery purposes.</p>
+
+  <h2>4. Your Rights</h2>
+  <p>You can contact us at any time to request information deletion or to ask questions about your privacy.</p>
+
+  <h2>5. Contact Us</h2>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+  <p><strong>Email:</strong> bidaribra94@gmail.com</p>
+
+  <p>By using our app, you agree to this Privacy Policy.</p>
+</body>
+</html>
